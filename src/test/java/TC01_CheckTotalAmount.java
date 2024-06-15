@@ -3,7 +3,7 @@ import Util.Utility;
 import org.testng.annotations.Test;
 import org.testng.Assert;
 
-public class TC01_Login extends TestBase {
+public class TC01_CheckTotalAmount extends TestBase {
 
     //define test data
     String email = "standard_user";
@@ -14,8 +14,8 @@ public class TC01_Login extends TestBase {
 
     // check login positive scenario
 
-    @Test(priority = 1, description = "login with valid email and password")
-    public void loginWithValidData_P(){
+    @Test(priority = 1, description = "check that total prices equal to price at checkout page")
+    public void totalPricessEqualCheckoutAmount_P(){
         new P01_LoginPage(driver).inputEmail(email).inputPassword(password).clickLoginButton();
         new P02_HomePage(driver).addRandomProductsToTheCart().clickOnCartButton();
         new P03_CartPage(driver).clickOnCheckoutButton();

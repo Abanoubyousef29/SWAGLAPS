@@ -6,7 +6,7 @@
 
     <test name="check total amount to pay is equal to the sum in the checkout page">
         <classes>
-            <class name="TC01_Login"></class>
+            <class name="TC01_CheckTotalAmount"></class>
         </classes>
     </test>
 
