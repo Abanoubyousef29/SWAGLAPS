@@ -1,6 +1,6 @@
-# saucedemo
+# SWAGLAPS
 
-![saucedemo Logo](https://www.saucedemo.com/v1/img/Login_Bot_graphic.png)
+![SWAGLAPS Logo](https://www.saucedemo.com/v1/img/Login_Bot_graphic.png)
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@
 
 ## Introduction
 
-SauceDemo is an innovative E-commerce platform offering a diverse range of products and seamless shopping experiences. This repository houses the source code that powers the SauceDemo application, ensuring robust functionality and user-friendly navigation.
+SWAGLAPS is an innovative E-commerce platform offering a diverse range of products and seamless shopping experiences. This repository houses the source code that powers the SWAGLAPS application, ensuring robust functionality and user-friendly navigation.
 
 ## Features
 
@@ -24,14 +24,14 @@ SauceDemo is an innovative E-commerce platform offering a diverse range of produ
 
 ## Installation
 
-To set up the saucedemo application locally, follow these steps:
+To set up the SWAGLAPS application locally, follow these steps:
 
 ## Installation Steps for Selenium 4 (Java)
 
 1. **Clone Repository**:
-   - git clone <>
+   - git clone <https://github.com/Abanoubyousef29/SWAGLAPS>
 2. **Navigate to Project Directory**:
-   - cd SauceDemo
+   - cd SWAGLAPS
 3. **Install Dependencies**:
    - Ensure Apache Maven is installed.
    - Add Selenium 4 dependency to pom.xml.
@@ -53,14 +53,14 @@ To set up the saucedemo application locally, follow these steps:
 
 
 ## Usage
-* User Guide: Refer to the User Guide for detailed information on how to use the saucedemo application.
+* User Guide: Refer to the User Guide for detailed information on how to use the SWAGLAPS application.
 
 ## Contributing
-* We welcome contributions from the community. To contribute to saucedemo, follow these steps:
+* We welcome contributions from the community. To contribute to SWAGLAPS, follow these steps:
 
 ## Fork the repository.
 * Create a new branch for your feature or bug fix.
 * Make your changes and submit a pull request.
 
 ## License
-* saucedemo is licensed under the Sauce Labs License.
+* SWAGLAPS is licensed under the Sauce Labs License.
